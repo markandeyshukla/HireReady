@@ -411,6 +411,10 @@
     text-decoration: none;
     color: white;
 }
+.none1{
+    text-transform: none;
+    color: black;
+}
 @media(max-width:1024px){
     .nav,.nav-left{
         width: 100%;
