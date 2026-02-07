@@ -56,7 +56,7 @@ It is suitable for **beginner frontend practice or assignments**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hire-ready.git
+   git clone https://github.com/markandeyshukla/HireReady.git
    ```
 2. Open the project folder.
 3. Double-click **index.html**
