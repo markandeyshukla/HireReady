@@ -1,7 +1,7 @@
 
 # HireReady – Job Search Web App
 
-HireReady is a simple and responsive **job-search landing page** designed to connect job seekers with top companies across India. It presents featured jobs, trusted companies, job categories, and a clear hiring process in a clean UI layout. ([HireReady][1])
+HireReady is a simple and responsive **job-search landing page** designed to connect job seekers with top companies across India. It presents featured jobs, trusted companies, job categories, and a clear hiring process in a clean UI layout. [Hireready](https://hireready-markandey.netlify.app/)
 
 ---
 
